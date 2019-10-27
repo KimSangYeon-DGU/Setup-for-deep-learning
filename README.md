@@ -36,7 +36,7 @@ Finally, type the command below to apply the update.
 ```
 source ~/.bashrc
 ```
-For check if CUDA 10.0 was installed correctly, type the command below.
+To check if CUDA 10.0 was installed correctly, type the command below.
 ```
 nvcc -V
 ```
