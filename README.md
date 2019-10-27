@@ -18,7 +18,7 @@ sudo dpkg -i cuda-repo-ubuntu1604-10-0-local-10.0.130-410.48_1.0-1_amd64.deb
 ```
 Next, we should add `apt-key` and the terminal tells you what command you should type to add the key.
 ``` 
-(Maybe, it dosen't work, please use the command that your terminal says)
+(It might not work, please use the command that your terminal says)
 sudo apt-key add /var/cuda-repo-<version>/7fa2af80.pub
 ```
 
